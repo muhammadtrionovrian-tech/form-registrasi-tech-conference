@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+
+
+:root {
+    --primary-color: #2c53ff;
+    --secondary-color: #e8e8e8;
+    --tertiary-color: #1a1307;
+    --font-style: Arial, sans-serif;
+}
+
